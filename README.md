@@ -30,10 +30,9 @@ fraudulent.
 -AUC <br/> 
 
 ## 💡 Lessons Learned
-▪ Designed and trained a fraud detection model above 85%  by using Python and Machine learning techniques. 
-▪ Built robust framework, pipeline and tooling to support scalable solutions using libraries like Pandas, Numpy, Matplotlib 
-and Seaborn. 
-▪ Created Tableau dashboards to communicate insights to stakeholders. 
+▪ Designed and trained a fraud detection model above 85%  by using Python and Machine learning techniques. <br/> 
+▪ Built robust framework, pipeline and tooling to support scalable solutions using libraries like Pandas, Numpy, Matplotlib and Seaborn. <br/> 
+▪ Created Tableau dashboards to communicate insights to stakeholders. <br/> 
 
 ## 👩‍💻 Author
 
