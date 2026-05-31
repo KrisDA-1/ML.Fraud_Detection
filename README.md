@@ -4,6 +4,9 @@ This study analyses the ‘creditcard.xlsx’ file and therefore carries out all
 processes to train ML models with the aim of predicting risky transactions considered 
 fraudulent.
 
+<img width="1536" height="1024" alt="fraud" src="https://github.com/user-attachments/assets/43d34c73-17f5-4d8a-9abb-cd8459067ee6" />
+
+
 ## ✨ Features
 -Dataset and Data Preparation 🆕<br/> 
 -Cleaning Process ✅<br/> 
